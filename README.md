@@ -27,7 +27,7 @@ HTML
 CSS
 Installation
 Clone the repository
-git clone https://github.com/sarthakdhir-1005/website-metadata-extractor.git
+git clone https://github.com/shivanshyadav335/website-metadata-extractor.git
 Move into the project folder
 cd website-metadata-extractor
 Install dependencies
